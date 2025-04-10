@@ -3,4 +3,4 @@ I'm a third year undergraduate student from Nankai University, . My research int
 I am very fortunate to be advised by [Prof. Tianjun], Nankai University.
 
 
-[Email] nkutpr@mail.nankai.edu.cn  / [Github][https://github.com/QiuDi233](https://github.com/theHarfWild/theHarfWild.github.io)
+[Email] nkutpr@mail.nankai.edu.cn  / [Github][[https://github.com/QiuDi233](https://github.com/theHarfWild/theHarfWild.github.io)](https://github.com/theHarfWild/theHarfWild.github.io)
